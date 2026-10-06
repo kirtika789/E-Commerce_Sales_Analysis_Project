@@ -1,7 +1,8 @@
-# E-commerce Sales Analysis Dashboard
+# E-commerce Sales Analysis  End-to-End Project
 
 ## Project Overview
 
+An **end-to-end data analytics project** combining Python, SQL, Excel and Power BI to analyze e-commerce sales and order performance through data cleaning, analysis, KPI tracking and interactive dashboards.
 This project is an interactive **E-commerce Sales Analysis Dashboard** developed in **Power BI** to analyze sales performance, profitability, customer orders, product performance, payment methods, locations, and order-related KPIs.
 
 The report is organized into **two connected dashboard pages** using the same cleaned e-commerce dataset:
@@ -10,6 +11,16 @@ The report is organized into **two connected dashboard pages** using the same cl
 2. **Order & KPI Analysis** – delivery, returns, cancellations, discounts, and order performance.
 
 The project demonstrates data cleaning, transformation, DAX measures, KPI development, data visualization, and business insight generation.
+
+## 🛠️ Tools Used
+
+- Microsoft Excel
+- pgAdmin4
+- PostgreSQL
+- Power BI
+- jupyter Notebook
+- Data Cleaning
+- Data Visualization
 
 ## Objectives
 
